@@ -66,6 +66,6 @@ Skills demonstrated:
 
 ## Contact
 
-*Email: stodorov77@gmail.com# it-portfolio
+Email: stodorov77@gmail.com# it-portfolio
 
-*LinkedIn: https://www.linkedin.com/in/stanimir-todorov-pmp
+LinkedIn: https://www.linkedin.com/in/stanimir-todorov-pmp

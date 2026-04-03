@@ -2,7 +2,7 @@
 
 ## IT Portfolio
 
-Computer Information Technology student at Valencia College with focus on system administration, infrastructure, and technical project coordination. PMP certified with experience in structured project delivery.
+Technical Project Manager and Product Owner with experience delivering SaaS platforms and enterprise software applications. PMP certified with experience in structured project delivery, translating operational and business requirements into product enhancements, coordinating cross-functional teams, and managing Agile delivery pipelines. Strong background supporting internal business applications, managing product backlogs, and ensuring successful implementation of software features across engineering and operational teams. Currently Computer Information Technology student at Valencia College with focus on system administration, infrastructure, and technical project coordination. 
 
 ---
 

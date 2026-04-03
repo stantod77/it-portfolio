@@ -80,6 +80,6 @@ Technologies used:
 
 ## Contact
 
-Email: stodorov77@gmail.com
+Email: stodorov77@gmail.com 
 
-LinkedIn: https://www.linkedin.com/in/stanimir-todorov-pmp
+LinkedIn: https://www.linkedin.com/in/stanimir-todorov-pmp 

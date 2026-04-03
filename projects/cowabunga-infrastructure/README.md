@@ -33,14 +33,19 @@ The goal was to create a secure and scalable infrastructure that simplifies netw
 
 ---
 
-## Example Infrastructure Diagram
+Project Details:
 
-![Network Diagram](images/network-diagram.png)
+# Full Project Documentation
 
+Download the full documentation:
+
+[Project Documentation Cowabunga Windows Server Infrastructure.pdf](Project Documentation Cowabunga Windows Server Infrastructure.pdf)
+
+## Infrastructure Example
+
+
+![Network Diagram](image/NetworkDiagram_CowabungaPizza.jpg)
+
+![ADDS Diagram](image/ADDS_Diagram_CowabungaPizza.jpg)
 ---
 
-## Project Documentation
-
-Full documentation is available here:
-
-[View Full Project Documentation](cowabunga-windows-server-infrastructure.docx)

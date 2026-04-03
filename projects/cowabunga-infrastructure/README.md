@@ -44,8 +44,8 @@ Download the full documentation:
 ## Infrastructure Example
 
 
-![Network Diagram](image/NetworkDiagram_CowabungaPizza.jpg)
+![Network Diagram](images/NetworkDiagram_CowabungaPizza.jpg)
 
-![ADDS Diagram](image/ADDS_Diagram_CowabungaPizza.jpg)
+![ADDS Diagram](images/ADDS_Diagram_CowabungaPizza.jpg)
 ---
 

@@ -1,4 +1,4 @@
-# Stanimir Todorov
+# Stanimir Todorov, PMP
 
 ## IT Portfolio
 
@@ -17,7 +17,7 @@ Skills demonstrated:
 - Security configuration
 - System documentation
 
-## Technical Project Approach
+### Technical Project Approach
 
 In addition to technical work, I focus on structured project execution and documentation.  
 As a PMP certified professional, I apply project management practices when organizing technical work.
@@ -64,5 +64,6 @@ Skills demonstrated:
 
 ## Contact
 
-Email: stodorov77@gmail.com# it-portfolio
-LinkedIn: https://www.linkedin.com/in/stanimir-todorov-pmp
+*Email: stodorov77@gmail.com# it-portfolio
+
+*LinkedIn: https://www.linkedin.com/in/stanimir-todorov-pmp

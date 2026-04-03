@@ -43,9 +43,13 @@ Download the full documentation:
 
 ## Infrastructure Example
 
+## Infrastructure Example
 
 ![Network Diagram](images/NetworkDiagram_CowabungaPizza.jpg)
 
-![ADDS Diagram](images/ADDS_Diagram_CowabungaPizza.jpg)
----
+![Active Directory Diagram](images/ADDS_Diagram_CowabungaPizza.jpg)
+
+![Shared Folder Architecture](images/Shared_Folders_Diagram_CowabungaPizza.jpg)
+
+
 

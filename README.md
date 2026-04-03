@@ -8,7 +8,6 @@ Technical Project Manager and Product Owner with experience delivering SaaS plat
 
 ## Portfolio Projects
 
----
 
 ## Technical Project Approach
 

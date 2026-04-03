@@ -2,107 +2,134 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Stanimir Todorov – IT Infrastructure Portfolio</title>
 
 <style>
-
-body{
-font-family: Arial, sans-serif;
-margin:0;
-background:#f4f6f8;
-color:#333;
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    line-height: 1.6;
+    background: #f4f6f8;
+    color: #333;
 }
 
-header{
-background:#1f4e79;
-color:white;
-padding:30px;
-text-align:center;
+header {
+    background: #1f4e79;
+    color: white;
+    padding: 60px 20px;
+    text-align: center;
 }
 
-.container{
-max-width:1000px;
-margin:auto;
-padding:40px;
+.container {
+    max-width: 1000px;
+    margin: auto;
+    padding: 40px 20px;
 }
 
-h2{
-color:#1f4e79;
-margin-top:40px;
+h2 {
+    color: #1f4e79;
+    border-bottom: 2px solid #1f4e79;
+    padding-bottom: 10px;
+    margin-top: 40px;
 }
 
-.project{
-background:white;
-padding:25px;
-border-radius:8px;
-box-shadow:0 2px 8px rgba(0,0,0,0.1);
-margin-top:20px;
+.project {
+    background: white;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    margin-top: 20px;
 }
 
-.button{
-display:inline-block;
-margin-top:15px;
-padding:10px 18px;
-background:#1f4e79;
-color:white;
-text-decoration:none;
-border-radius:5px;
+/* New style for the project image preview */
+.project-preview {
+    width: 100%;
+    max-height: 400px;
+    object-fit: cover;
+    border-radius: 4px;
+    border: 1px solid #ddd;
+    margin-bottom: 20px;
+    cursor: pointer;
 }
 
-.button:hover{
-background:#163a5b;
+.button {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 12px 24px;
+    background: #1f4e79;
+    color: white !important;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background 0.3s ease;
 }
 
+.button:hover {
+    background: #163a5b;
+}
+
+ul {
+    columns: 2; /* Splits your skills into two columns for better use of space */
+    -webkit-columns: 2;
+    -moz-columns: 2;
+}
+
+li {
+    margin-bottom: 8px;
+}
 </style>
 </head>
 
 <body>
 
 <header>
-<h1>Stanimir Todorov</h1>
-<p>IT Infrastructure • System Administration • Windows Server</p>
+    <h1>Stanimir Todorov, PMP</h1>
+    <p>Technical Project Manager • System Administration • IT Infrastructure</p>
 </header>
 
 <div class="container">
 
-<h2>About Me</h2>
+    <h2>About Me</h2>
+    <p>
+        I am a PMP certified professional and Computer Information Technology student at Valencia College. 
+        My expertise lies at the intersection of technical infrastructure and project leadership, 
+        specializing in Active Directory environments, network configuration, and structured documentation.
+    </p>
 
-<p>
-IT professional and Computer Information Technology student at Valencia College
-with experience in infrastructure deployment, project management, and enterprise systems.
-Background includes Active Directory environments, network configuration,
-and IT project leadership.
-</p>
+    <h2>Technical Skills</h2>
+    <ul>
+        <li>Windows Server Administration</li>
+        <li>Active Directory (AD DS)</li>
+        <li>Group Policy (GPO)</li>
+        <li>DHCP & Networking</li>
+        <li>PowerShell Automation</li>
+        <li>Infrastructure Documentation</li>
+        <li>Project Management (Agile/PMP)</li>
+        <li>SaaS & Enterprise Software</li>
+    </ul>
 
-<h2>Technical Skills</h2>
+    <h2>Featured Project</h2>
 
-<ul>
-<li>Windows Server Administration</li>
-<li>Active Directory</li>
-<li>Group Policy Management</li>
-<li>DHCP / Networking</li>
-<li>PowerShell</li>
-<li>Infrastructure Documentation</li>
-<li>Project Management (PMP)</li>
-</ul>
+    <div class="project">
+        <h3>Cowabunga Pizza – Windows Server Infrastructure</h3>
+        
+        <a href="projects/cowabunga-infrastructure/">
+            <img src="projects/cowabunga-infrastructure/images/NetworkDiagram_Cowabunga.jpg" 
+                 alt="Network Diagram Preview" 
+                 class="project-preview">
+        </a>
 
-<h2>Featured Project</h2>
+        <p>
+            Designed and implemented a centralized Windows Server infrastructure for a multi-site operation. 
+            This project features Active Directory Domain Services, DHCP configuration, and security-hardened 
+            Group Policy controls tailored for retail environments.
+        </p>
 
-<div class="project">
-
-<h3>Cowabunga Pizza – Windows Server Infrastructure</h3>
-
-<p>
-Designed and implemented a centralized Windows Server infrastructure including
-Active Directory Domain Services, DHCP configuration, Group Policy security
-controls, and structured file server management.
-</p>
-
-<a class="button" href="projects/cowabunga-infrastructure/">
-View Project
-</a>
-
-</div>
+        <a class="button" href="projects/cowabunga-infrastructure/">
+            View Full Documentation & Diagrams
+        </a>
+    </div>
 
 </div>
 

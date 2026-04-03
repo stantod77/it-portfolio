@@ -69,7 +69,7 @@ Project Details:
 
 Download the full documentation:
 
-[Project Documentation Cowabunga Windows Server Infrastructure](Project Documentation Cowabunga Windows Server Infrastructure.pdf)
+[Project Documentation Cowabunga Windows Server Infrastructure.pdf](Project Documentation Cowabunga Windows Server Infrastructure.pdf)
 
 ## Infrastructure Example
 

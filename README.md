@@ -50,6 +50,21 @@ Skills demonstrated:
 - CSS layout
 - Responsive design
 
+## Featured Project
+
+### Windows Server Infrastructure Deployment – Cowabunga Pizza
+
+Designed and implemented a centralized Windows Server infrastructure including Active Directory, DHCP services, Group Policy security controls, and file server management.
+
+Technologies used:
+- Windows Server
+- Active Directory
+- PowerShell
+- DHCP
+- Group Policy
+
+Project Details:
+projects/cowabunga-infrastructure
 ---
 
 ## Skills
@@ -59,7 +74,6 @@ Skills demonstrated:
 - Windows Administration
 - Networking fundamentals
 - HTML / CSS
-
 
 
 ---

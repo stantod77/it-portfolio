@@ -17,7 +17,27 @@ Skills demonstrated:
 - Security configuration
 - System documentation
 
----
+## Technical Project Approach
+
+In addition to technical work, I focus on structured project execution and documentation.  
+As a PMP certified professional, I apply project management practices when organizing technical work.
+
+Example approach used in projects:
+
+**Project Planning**
+- Define objective and technical scope
+- Identify required tools and environment
+
+**Implementation**
+- Configure systems or develop solution
+- Test configuration and validate results
+
+**Documentation**
+- Record configuration steps
+- Capture screenshots and results
+- Provide explanation of technical decisions
+
+This approach helps ensure technical work is repeatable, documented, and easier to support in production environments.
 
 ### Web Development Coursework Project
 

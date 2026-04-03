@@ -62,6 +62,10 @@ Technologies used:
 - DHCP
 - Group Policy
 
+**View full project with diagrams and documentation:**
+
+[Open the Cowabunga Infrastructure Project](projects/cowabunga-infrastructure/)
+
 
 ## Skills
 

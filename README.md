@@ -8,16 +8,9 @@ Technical Project Manager and Product Owner with experience delivering SaaS plat
 
 ## Portfolio Projects
 
-### Windows Security Policy Configuration
+---
 
-Configured workstation security policies using Group Policy in a Windows environment.
-
-Skills demonstrated:
-- Windows administration
-- Security configuration
-- System documentation
-
-### Technical Project Approach
+## Technical Project Approach
 
 In addition to technical work, I focus on structured project execution and documentation.  
 As a PMP certified professional, I apply project management practices when organizing technical work.
@@ -39,7 +32,16 @@ Example approach used in projects:
 
 This approach helps ensure technical work is repeatable, documented, and easier to support in production environments.
 
-### Web Development Coursework Project
+## Windows Security Policy Configuration
+
+Configured workstation security policies using Group Policy in a Windows environment.
+
+Skills demonstrated:
+- Windows administration
+- Security configuration
+- System documentation
+
+## Web Development Coursework Project
 
 Created a responsive webpage using HTML and CSS layout techniques such as Grid and Flexbox.
 

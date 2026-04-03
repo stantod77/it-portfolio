@@ -64,7 +64,20 @@ Technologies used:
 - Group Policy
 
 Project Details:
-projects/cowabunga-infrastructure
+
+# Full Project Documentation
+
+Download the full documentation:
+
+[Project Documentation Cowabunga Windows Server Infrastructure](Project Documentation Cowabunga Windows Server Infrastructure.pdf)
+
+## Infrastructure Example
+
+![Flow](images/Flow.jpg)
+
+![Network Diagram](image/NetworkDiagram_CowabungaPizza.jpg)
+
+![ADDS Diagram](image/ADDS_Diagram_CowabungaPizza.jpg)
 ---
 
 ## Skills

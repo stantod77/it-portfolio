@@ -2,7 +2,7 @@
 
 ## IT Portfolio
 
-Technical Project Manager and Product Owner with experience delivering SaaS platforms and enterprise software applications. PMP certified with experience in structured project delivery, translating operational and business requirements into product enhancements, coordinating cross-functional teams, and managing Agile delivery pipelines. Strong background supporting internal business applications, managing product backlogs, and ensuring successful implementation of software features across engineering and operational teams. Currently Computer Information Technology student at Valencia College with focus on system administration, infrastructure, and technical project coordination. 
+Project management professional with experience supporting SaaS implementations and Agile software delivery. Skilled in coordinating teams, tracking project progress, and assisting with system integrations and release cycles. Strong ability to work with cross-functional teams and maintain clear communication across stakeholders. 
 
 ---
 

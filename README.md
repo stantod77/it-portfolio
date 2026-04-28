@@ -82,4 +82,4 @@ Technologies used:
 
 Email: stodorov77@gmail.com 
 
-LinkedIn: https://www.linkedin.com/in/stanimir-todorov-pmp 
+
